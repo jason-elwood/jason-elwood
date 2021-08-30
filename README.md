@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jasonelwood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jasonelwood | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jasonelwood | Dev" width="22px" src="https://firebasestorage.googleapis.com/v0/b/bibliogs-f1695.appspot.com/o/dev-icon.png?alt=media&token=7ccd5ef8-b5b7-4454-b999-bc7b56090442" />][dev]
 
 [instagram]: https://www.instagram.com/artof.software/
 [linkedin]: https://www.linkedin.com/in/jasonelwood/
+[dev]: https://dev.to/jasonelwood
+
