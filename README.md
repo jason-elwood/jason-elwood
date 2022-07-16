@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/artof.software/
 [linkedin]: https://www.linkedin.com/in/jasonelwood/
 [dev]: https://dev.to/jasonelwood
+<!--
 <br />
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-elwood&theme=radical)
-
+-->
